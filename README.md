@@ -23,7 +23,7 @@
   <img align="center" alt="Nest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg">
   <img align="center" alt="VSCODE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="right" alt="milkway-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/1012016391177637899/1038501511518494720/eye-trippy.gif">
+  <img align="right" alt="milkway-pic" height="150" style="border-radius:50px;" src="https://s2.glbimg.com/d7u91U_Sk8_kEJ9L9cRsXIKvHoc=/e.glbimg.com/og/ed/f/original/2015/04/30/pilares-da-criacao.jpg">
 </div>
 
    ##
