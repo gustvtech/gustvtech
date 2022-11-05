@@ -23,7 +23,7 @@
   <img align="center" alt="Nest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg">
   <img align="center" alt="VSCODE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="right" alt="milkway-pic" height="150" style="border-radius:50px;" src="https://media.tenor.com/CtWH465U4q4AAAAi/space-instagram.gif">
+  <img align="right" alt="milkway-pic" height="150" style="border-radius:50px;" src="https://media.tenor.com/sFdzKK1cHcsAAAAj/astronaut-tumble-astronaut.gif">
 </div>
 
    ##
