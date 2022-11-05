@@ -1,9 +1,10 @@
 ### Olá a todos, sejam bem-vindos ao meu perfil 👋
 
+- ⚡ Fato interessante sobre mim: Amo astronomia, engenharia aeroespacial, filosofia e psicologia.
 - 🔭 Estou atualmente desenvolvendo: Um blog pessoal e um fórum para mulheres programadoras.
 - 🌱 Estou atualmente aprendendo: JavaScript, TypeScript e MySQL.
 - 😄 Pronome: Ele/Dele.
-- ⚡ Fato interessante sobre mim: Amo astronomia, engenharia aeroespacial, filosofia e psicologia.
+
 
 <div align="center">
   <a href="https://github.com/gust-tech">
