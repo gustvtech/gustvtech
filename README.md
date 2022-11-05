@@ -1,4 +1,4 @@
-### Olá a todos, sejam bem-vindos ao meu perfil ✨
+### Olá a todos, sejam bem-vindos ao meu perfil 💫
 
 - 🔭 Estou atualmente desenvolvendo: Um blog pessoal e um fórum para mulheres programadoras.
 - ⚡ Fatos interessantes sobre mim: Amo astronomia, engenharia aeroespacial, filosofia e psicologia.
