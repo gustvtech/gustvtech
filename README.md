@@ -2,7 +2,7 @@
 
 - 🔭 Estou atualmente desenvolvendo: Um blog pessoal e um fórum para mulheres programadoras.
 - ⚡ Fato interessante sobre mim: Amo astronomia, engenharia aeroespacial, filosofia e psicologia.
-- 🌱 Estou atualmente aprendendo: JavaScript, TypeScript e MySQL.
+- 🌱 Estou atualmente aprendendo: JavaScript, TypeScript, MySQL e React.
 - 😄 Pronome: Ele/Dele.
 
 
