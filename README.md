@@ -44,6 +44,3 @@
   <a href="https://github.com/Equipe03-Generation/PI_Forum_Dev_Girls">
   <img align="center" height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=Equipe03-Generation&repo=PI_Forum_Dev_Girls&theme=midnight-purple" />
 </a>
-  
-<br />
-<br />
