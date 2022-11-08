@@ -1,5 +1,7 @@
 ### Olá a todos, sejam bem-vindos ao meu perfil ✨
 
+Sou atualmente aluno no bootcamp da Generation Brasil, por meio do Programadores Cariocas. 
+
 - 🔭 Estou atualmente desenvolvendo: Um blog pessoal e um fórum para mulheres programadoras.
 - ⚡ Fatos interessantes sobre mim: Amo astronomia, engenharia aeroespacial, filosofia e psicologia.
 - 🌱 Estou atualmente aprendendo: JavaScript, TypeScript, MySQL e React.
