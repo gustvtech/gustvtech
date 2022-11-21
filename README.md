@@ -15,6 +15,8 @@ Sou atualmente aluno no bootcamp da Generation Brasil, por meio do Programadores
 </div>
   
   <div style="display: inline_block"><br>
+    
+  ### Linguagens, frameworks e programas que utilizo 👇
   
   <img align="center" alt="Arduino" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg">  
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
