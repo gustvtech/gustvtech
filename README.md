@@ -10,8 +10,8 @@ Sou atualmente aluno no bootcamp da Generation Brasil, por meio do Programadores
 
 <div align="center">
   <a href="https://github.com/gust-tech">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gust-tech&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gust-tech&layout=compact&langs_count=7&theme=aura"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gust-tech&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gust-tech&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
   
   <div style="display: inline_block"><br>
@@ -47,8 +47,8 @@ Sou atualmente aluno no bootcamp da Generation Brasil, por meio do Programadores
   ### Principais Projetos:
  
   <a href="https://github.com/gust-tech/Blog_Pessoal">
-  <img align="center" height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=gust-tech&repo=Blog_Pessoal&theme=aura" />
+  <img align="center" height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=gust-tech&repo=Blog_Pessoal&theme=midnight-purple" />
 </a>
   <a href="https://github.com/Equipe03-Generation/PI_Forum_Dev_Girls">
-  <img align="center" height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=Equipe03-Generation&repo=PI_Forum_Dev_Girls&theme=aura" />
+  <img align="center" height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=Equipe03-Generation&repo=PI_Forum_Dev_Girls&theme=midnight-purple" />
 </a>
