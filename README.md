@@ -4,7 +4,7 @@ Sou atualmente aluno no bootcamp da Generation Brasil, por meio do Programadores
 
 - 🔭 Estou atualmente desenvolvendo: Um blog pessoal e um fórum para mulheres programadoras.
 - ⚡ Fatos interessantes sobre mim: Amo astronomia, engenharia aeroespacial, filosofia e psicologia.
-- 🌱 Estou atualmente aprendendo: JavaScript, Bootstrap, CSS, Angular e React.
+- 🌱 Estou atualmente aprendendo: Bootstrap, CSS, Material-UI e React.
 - 😄 Pronome: Ele/Dele.
 
 
