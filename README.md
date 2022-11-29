@@ -44,10 +44,7 @@ Sou atualmente aluno no bootcamp da Generation Brasil, por meio do Programadores
 </div>
 
   ### Principais Projetos:
- 
-  <a href="https://github.com/gust-tech/Blog_Pessoal">
-  <img align="center" height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=gust-tech&repo=Blog_Pessoal&theme=midnight-purple" />
-</a>
+  
   <a href="https://github.com/Equipe03-Generation/PI_Forum_Dev_Girls">
   <img align="center" height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=Equipe03-Generation&repo=PI_Forum_Dev_Girls&theme=midnight-purple" />
 </a>
