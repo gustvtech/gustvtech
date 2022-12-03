@@ -42,9 +42,3 @@ Sou atualmente aluno no bootcamp da Generation Brasil, por meio do Programadores
   ![Snake animation](https://github.com/gust-tech/gust-tech/blob/output/github-contribution-grid-snake.svg)
  
 </div>
-
-  ### Principais Projetos:
-  
-  <a href="https://github.com/Equipe03-Generation/PI_Forum_Dev_Girls">
-  <img align="center" height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=Equipe03-Generation&repo=PI_Forum_Dev_Girls&theme=midnight-purple" />
-</a>
