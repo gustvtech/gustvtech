@@ -7,6 +7,7 @@ Sou atualmente aluno no bootcamp da Generation Brasil, por meio do Programadores
 - 🌱 Estou atualmente aprendendo: Bootstrap, CSS, Material-UI e ReactJS.
 
 
+<br>
 <div align="center">
   <a href="https://github.com/gust-tech">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gust-tech&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
