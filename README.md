@@ -4,7 +4,8 @@ Sou atualmente aluno no bootcamp da Generation Brasil, por meio do Programadores
 
 - 🔭 Estou atualmente desenvolvendo: Um blog pessoal e um fórum para mulheres programadoras.
 - ⚡ Fatos interessantes sobre mim: Amo astronomia, engenharia aeroespacial, filosofia e psicologia.
-- 🌱 Estou atualmente aprendendo: Python
+- 🌱 Estou atualmente aprendendo: Python <img alt="py" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+          
 
 
 <br>
