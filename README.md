@@ -1,6 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A531F7&width=435&lines=Ol%C3%A1+mundo%2C+sejam+todos+bem-vindos+%E2%9C%A8;Uma+resenha+sobre+mim+abaixo++%F0%9F%91%87;Cogito,+ergo+sum+%F0%9F%A7%A0)](https://git.io/typing-svg)
 
-Aluno formado no bootcamp da Generation Brasil, por meio do Programadores Cariocas. 
+• 2022: Formado em desenvolvimento web no bootcamp da Generation Brasil, por meio do Programadores Cariocas.
+</br>
 
 - 🔭 Estou atualmente desenvolvendo: Um blog pessoal e um fórum para mulheres programadoras.
 - ⚡ Fatos interessantes sobre mim: Amo astronomia, engenharia aeroespacial, filosofia e psicologia.
