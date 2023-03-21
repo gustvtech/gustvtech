@@ -9,7 +9,7 @@ Histórico:
 </br>
 2022: Formado em desenvolvimento web no bootcamp da Generation Brasil, por meio do Programadores Cariocas.
 </br>
-2023:
+2023: Cursando Análise e Desenvolvimento de Sistemas na Universidade Veiga de Almeida (UVA).
 
 - 🔭 Estou atualmente desenvolvendo: Um blog pessoal e um fórum para mulheres programadoras.
 - ⚡ Fatos interessantes sobre mim: Amo astronomia, engenharia aeroespacial, filosofia e psicologia.
