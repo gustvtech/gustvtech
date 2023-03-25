@@ -7,7 +7,7 @@ Sou apaixonado pela área de TI e suas ramificações, descobri essa paixão dur
 
 Histórico:
 </br>
-2022: Formado em Desenvolvimento Web com foco em JS|TS no bootcamp da Generation Brasil, por meio do Programadores Cariocas.
+2022: Formado em Desenvolvimento Web (JS) no bootcamp da Generation Brasil, por meio do Programadores Cariocas.
 </br>
 2023: Cursando Análise e Desenvolvimento de Sistemas na Universidade Veiga de Almeida (UVA).
 
