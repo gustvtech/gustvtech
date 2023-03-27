@@ -2,14 +2,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A531F7&width=435&lines=Ol%C3%A1+mundo%2C+sejam+todos+bem-vindos+%E2%9C%A8;Uma+resenha+sobre+mim+abaixo++%F0%9F%91%87;Cogito,+ergo+sum+%F0%9F%A7%A0" alt="Typing SVG" /></a>
 </div>
 
-Sou apaixonado pela área de TI e suas ramificações, descobri essa paixão durante meu curso técnico em eletrônica, na qual montava e programava pequenos robôs utilizando Arduíno. Com foco na mentalidade de crescimento, decidi entrar no bootcamp da Generation Brasil, na qual após 6 meses de preparação intensiva consegui me formar como Desenvolvedor Web Junior Full Stack. Pretendo agora seguir carreira na área e me especializar ainda mais, aprendendo novas linguagens e frameworks.
+Sou apaixonado pela área de TI e suas ramificações, descobri essa paixão durante meu curso técnico em eletrônica, na qual montava e programava pequenos robôs utilizando Arduíno. Visando meu desenvolvimento profissional, decidi entrar no bootcamp da Generation Brasil, na qual após 6 meses de preparação intensiva consegui me formar como desenvolvedor Web full stack. Pretendo agora seguir carreira na área e me especializar ainda mais, aprendendo novas linguagens e frameworks. Recentemente dei mais um passo nessa jornada cursando análise e desenvolvimento de sistemas na Universidade Veiga de Almeida (UVA).
 </br>
-
-Histórico:
-</br>
-2022: Formado em Desenvolvimento Web (JS) no bootcamp da Generation Brasil, por meio do Programadores Cariocas.
-</br>
-2023: Cursando Análise e Desenvolvimento de Sistemas na Universidade Veiga de Almeida (UVA).
 
 - 🔭 Estou atualmente desenvolvendo: Um blog pessoal e um fórum para mulheres programadoras.
 - ⚡ Fatos interessantes sobre mim: Amo astronomia, engenharia aeroespacial, filosofia e psicologia.
