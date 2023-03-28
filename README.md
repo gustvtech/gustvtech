@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A531F7&width=435&lines=Ol%C3%A1+mundo%2C+sejam+todos+bem-vindos+%E2%9C%A8;Uma+resenha+sobre+mim+abaixo++%F0%9F%91%87;Cogito,+ergo+sum+%F0%9F%A7%A0" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=993BC9&width=435&lines=Sejam+todos+bem-vindos+ao+meu+GitHub;Abaixo+algumas+informa%C3%A7%C3%B5es+sobre+mim" alt="Typing SVG" /></a>
 </div>
 
 Sou apaixonado pela área de TI e suas ramificações, descobri essa paixão durante meu curso técnico em eletrônica, na qual montava e programava pequenos robôs utilizando Arduino. Visando meu desenvolvimento profissional, decidi entrar no bootcamp da Generation Brasil, na qual após 6 meses de preparação intensiva consegui me formar como desenvolvedor web full stack. Pretendo agora seguir carreira na área e me especializar ainda mais, aprendendo novas linguagens e frameworks. Recentemente dei mais um passo nessa jornada cursando análise e desenvolvimento de sistemas na Universidade Veiga de Almeida (UVA).
