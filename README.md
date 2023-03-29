@@ -38,15 +38,6 @@ Sou apaixonado pela área de TI e suas ramificações, descobri essa paixão dur
   <img align="right" alt="milkway-pic" height="150" style="border-radius:50px;" src="https://s2.glbimg.com/d7u91U_Sk8_kEJ9L9cRsXIKvHoc=/e.glbimg.com/og/ed/f/original/2015/04/30/pilares-da-criacao.jpg">
 </div>
 
- <div style="display: inline_block"><br>
-          
-  ### Instituições que já estudei/estudo ↴
-  
-  <img align="center" alt="Faetec" height="100" width="100" src="https://o.remove.bg/downloads/e7f97489-f593-4ff9-b3ae-9e1050bf2710/faetec-removebg-preview.png"> 
-  <img align="center" alt="Generation" height="100" width="100" src="https://o.remove.bg/downloads/232522c6-8d74-4c64-ae40-0545e595488d/generation-removebg-preview.png"> 
-  <img align="center" alt="UVA" height="100" width="100" src="https://o.remove.bg/downloads/1239506a-709e-47f4-9110-8063b6a1a8b9/I0UVxM1k7WHj-removebg-preview.png">
-</div>
-
    ##
   
   <div> 
