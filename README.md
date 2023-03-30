@@ -5,12 +5,7 @@
 Sou apaixonado pela área de TI e suas ramificações, descobri essa paixão durante meu curso técnico em eletrônica, na qual montava e programava pequenos robôs utilizando Arduino. Visando meu desenvolvimento profissional, decidi entrar no bootcamp da Generation Brasil, na qual após 6 meses de preparação intensiva consegui me formar como desenvolvedor web full stack. Pretendo agora seguir carreira na área e me especializar ainda mais, aprendendo novas linguagens e frameworks. Recentemente dei mais um passo nessa jornada cursando análise e desenvolvimento de sistemas na Universidade Veiga de Almeida (UVA).
 </br>
 
-- 🔭 Estou atualmente desenvolvendo: Um blog pessoal e um fórum para mulheres programadoras.
-- ⚡ Fatos interessantes sobre mim: Amo astronomia, engenharia aeroespacial, filosofia e psicologia.
-- 🌱 Estou atualmente aprendendo: Python <img alt="py" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> e Java <img alt="java" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-          
-          
-
+- 🌱 Estou atualmente aprendendo: Python <img alt="py" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> e Java <img alt="java" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />                  
 
 <br>
 <div align="center">
