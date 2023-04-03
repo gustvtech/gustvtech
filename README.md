@@ -2,7 +2,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=993BC9&width=435&lines=Sejam+todos+bem-vindos+ao+meu+GitHub;Abaixo+algumas+informa%C3%A7%C3%B5es+sobre+mim" alt="Typing SVG" /></a>
 </div>
 
-### Sobre mim ↴
 Sou apaixonado pela área de TI e suas ramificações, descobri essa paixão durante meu curso técnico em eletrônica, na qual montava e programava pequenos robôs utilizando Arduino. Visando meu desenvolvimento profissional, decidi entrar no bootcamp da Generation Brasil por meio do Programadores Cariocas, na qual após 6 meses de preparação intensiva consegui me formar como desenvolvedor web full stack. Pretendo agora seguir carreira na área e me especializar ainda mais aprendendo novas tecnologias. Recentemente dei mais um passo nessa jornada cursando análise e desenvolvimento de sistemas na Universidade Veiga de Almeida (UVA).
 </br>
 
