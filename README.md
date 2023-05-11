@@ -5,7 +5,7 @@
 Sou apaixonado pela área de TI e suas ramificações, descobri essa paixão durante meu curso técnico em eletrônica, na qual montava e programava pequenos robôs utilizando Arduino. Visando meu desenvolvimento profissional, decidi entrar no bootcamp da Generation Brasil por meio do Programadores Cariocas, na qual após 6 meses de preparação intensiva consegui me formar como Desenvolvedor Web Full Stack. Pretendo agora seguir carreira na área e me especializar ainda mais aprendendo novas tecnologias. Recentemente dei mais um passo nessa jornada cursando Análise e Desenvolvimento de Sistemas na Universidade Veiga de Almeida (UVA).
 </br>
 
-- 🌱 Estou atualmente aprendendo: Python <img alt="py" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> e Java <img alt="java" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />                  
+- 🌱 Estou atualmente aprendendo: <img alt="c" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /> & <img alt="java" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />                  
 
 <br>
 <div align="center">
@@ -20,6 +20,8 @@ Sou apaixonado pela área de TI e suas ramificações, descobri essa paixão dur
   
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="postgremysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
