@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=993BC9&width=435&lines=Sejam+todos+bem-vindos+ao+meu+GitHub;Abaixo+algumas+informa%C3%A7%C3%B5es+sobre+mim" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=993BC9&width=435&lines=Welcome+everyone+to+my+GitHub;Below+are+some+information+about+me" alt="Typing SVG" /></a>
 
 
 I'm passionate about the IT field and its branches. I discovered this passion during my technical course in electronics, where I built and programmed small robots using Arduino. In order to further my professional development, I decided to join the Generation Brasil bootcamp through the Programadores Cariocas, and after 6 months of intensive preparation, I successfully graduated as a Full Stack Web Developer. I now plan to pursue a career in this field and further specialize myself by learning new technologies. Recently, I took another step in this journey by studying Systems Analysis and Development at Veiga de Almeida University (UVA).
