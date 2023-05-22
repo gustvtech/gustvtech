@@ -4,6 +4,7 @@
 
 Sou apaixonado pela área de TI e suas ramificações, descobri essa paixão durante meu curso técnico em eletrônica, na qual montava e programava pequenos robôs utilizando Arduino. Visando meu desenvolvimento profissional, decidi entrar no bootcamp da Generation Brasil por meio do Programadores Cariocas, na qual após 6 meses de preparação intensiva consegui me formar como Desenvolvedor Web Full Stack. Pretendo agora seguir carreira na área e me especializar ainda mais aprendendo novas tecnologias. Recentemente dei mais um passo nessa jornada cursando Análise e Desenvolvimento de Sistemas na Universidade Veiga de Almeida (UVA).
 </br>
+##
 
 🌱 Estou atualmente aprendendo: <img alt="c" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /> & <img alt="java" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> 
 </div>                 
@@ -18,7 +19,6 @@ Sou apaixonado pela área de TI e suas ramificações, descobri essa paixão dur
   <div style="display: inline_block" align="center"><br>
     
   ### • Frameworks | Bibliotecas
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Nest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg">
   <img align="center" alt="Bootstrap" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png">
@@ -30,6 +30,7 @@ Sou apaixonado pela área de TI e suas ramificações, descobri essa paixão dur
           
   
   ### • Tecnologias
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
