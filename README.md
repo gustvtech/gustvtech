@@ -1,5 +1,6 @@
 <div align="right">
-<a href='https://github.com/gust-tech/gust-tech/blob/main/README-en.md'>English</a>
+<a href='https://github.com/gust-tech/gust-tech/blob/main/README-en.md'>English 
+<img align="center" alt="React" height="30" width="30" src="https://em-content.zobj.net/thumbs/240/google/350/flag-united-kingdom_1f1ec-1f1e7.png"></a>
 </div>
 
 #
