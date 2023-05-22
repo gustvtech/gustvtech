@@ -2,8 +2,7 @@
 <a href='https://github.com/gust-tech/gust-tech/blob/main/README-en.md'>English 
 <img align="center" alt="React" height="30" width="30" src="https://em-content.zobj.net/thumbs/240/google/350/flag-united-kingdom_1f1ec-1f1e7.png"></a>
 </div>
-
-#
+</br>
 
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=993BC9&width=435&lines=Sejam+todos+bem-vindos+ao+meu+GitHub;Abaixo+algumas+informa%C3%A7%C3%B5es+sobre+mim" alt="Typing SVG" /></a>
