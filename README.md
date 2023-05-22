@@ -17,7 +17,7 @@ Sou apaixonado pela área de TI e suas ramificações, descobri essa paixão dur
   
   <div style="display: inline_block" align="center"><br>
     
-  ### • Frameworks & Bibliotecas
+  ### • Frameworks
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Nest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg">
@@ -41,7 +41,7 @@ Sou apaixonado pela área de TI e suas ramificações, descobri essa paixão dur
   
   <div align="center">
   
-  ###  • Links 
+  ###  • Links
   DIO: https://web.dio.me/users/gust_tech
   </br>
   Alura: https://cursos.alura.com.br/user/gust-tech
