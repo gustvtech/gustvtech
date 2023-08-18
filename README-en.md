@@ -1,6 +1,9 @@
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=993BC9&width=435&lines=Welcome+everyone+to+my+GitHub;Below+are+some+information+about+me" alt="Typing SVG" /></a>
 
+Electronics Technician, Junior Full Stack Web Developer, currently pursuing Systems Analysis and Development.
+</br>
+</br>
 🌱 I am currently learning: <img alt="c" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /> & <img alt="java" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> 
 </div>                 
 
