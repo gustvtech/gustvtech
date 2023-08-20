@@ -51,13 +51,11 @@ Técnico em Eletrônica, Desenvolvedor Web Junior Full Stack e atualmente fazend
   <div align="center">
   
   ###  • Links
-  DIO: https://web.dio.me/users/gust_tech
+  DIO: https://www.dio.me/users/gust_tech
   </br>
   Alura: https://cursos.alura.com.br/user/gust-tech
  
   <a href="mailto:agustavo156@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gust-tech/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  
-  ![Snake animation](https://github.com/gust-tech/gust-tech/blob/output/github-contribution-grid-snake.svg)
  
 </div>
