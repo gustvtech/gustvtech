@@ -7,7 +7,7 @@
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=993BC9&width=435&lines=Sejam+todos+bem-vindos+ao+meu+GitHub;Abaixo+algumas+informa%C3%A7%C3%B5es+sobre+mim" alt="Typing SVG" /></a>
 
-Técnico em Eletrônica, Desenvolvedor Web Junior Full Stack e atualmente fazendo curso superior de tecnologia em Análise e Desenvolvimento de Sistemas.
+Técnico em Eletrônica, Desenvolvedor Web FullStack Jr e atualmente fazendo curso superior de tecnologia em Análise e Desenvolvimento de Sistemas.
 </br>
 </br>
 🌱 Estou atualmente aprendendo: <img alt="c" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /> & <img alt="java" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> 
