@@ -52,8 +52,6 @@ Técnico em Eletrônica, Dev Web JavaScript Full-Stack Jr e atualmente cursando 
   <div align="center">
   
   ###  • Links
-  DIO: https://www.dio.me/users/gust_tech
-  </br>
   Alura: https://cursos.alura.com.br/user/gustvtech
  
   <a href="mailto:agustavo156@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
