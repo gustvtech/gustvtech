@@ -56,12 +56,3 @@ Técnico em Eletrônica, Dev Web JavaScript Full-Stack Jr e atualmente cursando 
 </div>
           
   </div>
-   
-  ##
-  
-  <div align="center">
-  
-  ###  • Links
-  Alura: https://cursos.alura.com.br/user/gustvtech
- 
-</div>
