@@ -45,7 +45,6 @@ Electronics Technician, Junior Full-Stack Web Developer in JavaScript, currently
   <a href="https://www.devmedia.com.br/perfil/gustavo-rodrigues-rocha"><img alt="Devmedia" height="30" width="40" src="https://www.devmedia.com.br/imagens/fotoscolunistas/_20190416121326.png" target="_blank"><a/>
   
   ###  • Contact
-  <a href="mailto:agustavo156@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gust-tech/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
 </div>
