@@ -46,9 +46,9 @@ Técnico em Eletrônica, Dev Web JavaScript Full-Stack Jr e atualmente cursando 
   <img align="center" alt="postgremysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
 
   ###  • Links
-  <a href="https://www.dio.me/users/gust_tech"><img align="center" alt="DIO" height="30" width="40" src="https://avatars.githubusercontent.com/u/26231823?s=200&v=4">
-  <a href="https://cursos.alura.com.br/user/gustvtech"><img align="center" alt="Alura" height="30" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsXKTYYETmuSboTulDSNUgyzHAKAIOlAF2Kw&s">
-  <a href="https://www.devmedia.com.br/perfil/gustavo-rodrigues-rocha"><img align="center" alt="Devmedia" height="30" width="40" src="https://www.devmedia.com.br/imagens/fotoscolunistas/_20190416121326.png"/>
+  <a href="https://www.dio.me/users/gust_tech"><img alt="DIO" height="30" width="40" src="https://avatars.githubusercontent.com/u/26231823?s=200&v=4" target="_blank"></a>
+  <a href="https://cursos.alura.com.br/user/gustvtech"><img alt="Alura" height="30" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsXKTYYETmuSboTulDSNUgyzHAKAIOlAF2Kw&s" target="_blank"></a>
+  <a href="https://www.devmedia.com.br/perfil/gustavo-rodrigues-rocha"><img alt="Devmedia" height="30" width="40" src="https://www.devmedia.com.br/imagens/fotoscolunistas/_20190416121326.png" target="_blank"><a/>
   
   ###  • Contato
   <a href="mailto:agustavo156@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
