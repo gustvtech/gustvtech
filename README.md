@@ -8,7 +8,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=993BC9&width=435&lines=Sejam+todos+bem-vindos+ao+meu+GitHub;Abaixo+algumas+informa%C3%A7%C3%B5es+sobre+mim" alt="Typing SVG" /></a>
 
 
-Desenvolvedor Full-Stack JavaScript Jr, Técnico em Eletrônica e atualmente cursando Análise e Desenvolvimento de Sistemas na UVA. Certificação em Ciência de Dados com Python, desenvolvimento Web Full-Stack e Back-end com Java, Spring Boot e Oracle Cloud pelo programa Oracle Next Education F2 T5 da Oracle + Alura. Participante do WWDC SSC Crash Course 2025 pela Apple Developer Academy.
+Desenvolvedor Full-Stack JavaScript Jr., Técnico em Eletrônica e estudante de Análise e Desenvolvimento de Sistemas na UVA. Certificado em Ciência de Dados com Python, Java, Spring Boot e Oracle Cloud. Participante do WWDC SSC Crash Course 2025 pela Apple Developer Academy.
 </br>        
 </div>                 
 
