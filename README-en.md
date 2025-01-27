@@ -2,7 +2,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=993BC9&width=435&lines=Welcome+everyone+to+my+GitHub;Below+are+some+information+about+me" alt="Typing SVG" /></a>
 
 
-Junior Full-Stack JavaScript Developer, Electronics Technician, and currently pursuing a degree in Systems Analysis and Development at UVA. Certified in Data Science with Python, Full-Stack Web Development, and Back-end Development with Java, Spring Boot, and Oracle Cloud through the Oracle Next Education F2 T5 program by Oracle + Alura. Participant in the WWDC SSC Crash Course 2025 by the Apple Developer Academy.
+
+Junior Full-Stack JavaScript Developer, Electronics Technician, and student of Systems Analysis and Development at UVA. Certified in Data Science with Python, Java, Spring Boot, and Oracle Cloud. Participant in the WWDC SSC Crash Course 2025 by the Apple Developer Academy.
 </br>
 </div>                 
 
