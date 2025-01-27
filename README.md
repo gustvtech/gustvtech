@@ -7,7 +7,7 @@
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=993BC9&width=435&lines=Sejam+todos+bem-vindos+ao+meu+GitHub;Abaixo+algumas+informa%C3%A7%C3%B5es+sobre+mim" alt="Typing SVG" /></a>
 
-Técnico em Eletrônica, Dev Web JavaScript Full-Stack Jr e atualmente cursando Análise e Desenvolvimento de Sistemas na Universidade Veiga de Almeida e participando na WWDC SSC Crash Course 2025 da Apple Developer Academy.
+Técnico em Eletrônica, Dev Web JavaScript Full-Stack Jr e atualmente cursando Análise e Desenvolvimento de Sistemas na UVA e participando da WWDC SSC Crash Course 2025 pela Apple Developer Academy.
 </br>        
 </div>                 
 
