@@ -7,8 +7,6 @@
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=993BC9&width=435&lines=Sejam+todos+bem-vindos+ao+meu+GitHub;Abaixo+algumas+informa%C3%A7%C3%B5es+sobre+mim" alt="Typing SVG" /></a>
 
-
-Desenvolvedor Full-Stack JavaScript Jr.
 </br>        
 </div>                 
 
