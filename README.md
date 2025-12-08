@@ -6,17 +6,9 @@
 
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=993BC9&width=435&lines=Sejam+todos+bem-vindos+ao+meu+GitHub;Abaixo+algumas+informa%C3%A7%C3%B5es+sobre+mim" alt="Typing SVG" /></a>
-
-</br>        
 </div>                 
 
 <br>
-<div align="center">
-  <a href="https://github.com/gustvtech">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gustvtech&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustvtech&layout=compact&langs_count=7&theme=midnight-purple"/>
-</div>
-  
   <div style="display: inline_block" align="center"><br>
     
   ### • Frameworks | Ferramentas
