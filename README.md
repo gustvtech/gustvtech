@@ -16,9 +16,6 @@ Arquitetura limpa • Código manutenível • Boas práticas
 <a href="https://www.linkedin.com/in/gustvtech/">
   <img src="https://img.shields.io/badge/LinkedIn-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://github.com/gustvtech">
-  <img src="https://img.shields.io/badge/GitHub-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
 
 </div>
 
