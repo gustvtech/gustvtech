@@ -100,9 +100,6 @@ Arquitetura limpa • Código manutenível • Boas práticas
 
 <div align="center">
 
-<a href="https://www.dio.me/users/gust_tech">
-  <img src="https://img.shields.io/badge/DIO-6A0DAD?style=for-the-badge"/>
-</a>
 <a href="https://cursos.alura.com.br/user/gustvtech">
   <img src="https://img.shields.io/badge/Alura-8A2BE2?style=for-the-badge"/>
 </a>
