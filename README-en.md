@@ -69,14 +69,6 @@ Clean architecture • Maintainable code • Best practices
 
 ---
 
-## 🏆 Achievements
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=gustvtech&theme=dracula&no-frame=true&row=1"/>
-</div>
-
----
-
 ## 📈 Activity
 
 <div align="center">
