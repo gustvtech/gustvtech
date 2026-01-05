@@ -69,14 +69,6 @@ Arquitetura limpa • Código manutenível • Boas práticas
 
 ---
 
-## 🏆 Conquistas
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=gustvtech&theme=dracula&no-frame=true&row=1"/>
-</div>
-
----
-
 ## 📈 Atividade
 
 <div align="center">
