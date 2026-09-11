@@ -69,14 +69,6 @@ Clean architecture • Maintainable code • Best practices
 
 ---
 
-## 📈 Activity
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gustvtech&bg_color=ffffff&color=6A0DAD&line=8A2BE2&point=993BC9&hide_border=true"/>
-</div>
-
----
-
 ## 🐍 Contributions
 
 <div align="center">
